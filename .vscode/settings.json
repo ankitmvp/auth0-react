@@ -1,0 +1,10 @@
+{
+    "editor.codeLensFontFamily": "'SourceCodeRoman-ExtraLight'",
+    "editor.fontFamily": "'SourceCodeRoman-ExtraLight'",
+    "editor.inlayHints.fontFamily": "'SourceCodeRoman-ExtraLight'",
+    "scm.inputFontFamily": "'SourceCodeRoman-ExtraLight'",
+    "debug.console.fontFamily": "'SourceCodeRoman-ExtraLight'",
+    "markdown.preview.fontFamily": "'SourceCodeRoman-ExtraLight'",
+    "terminal.integrated.fontFamily": "'SourceCodeRoman-ExtraLight'",
+    "rest-client.fontFamily": "'SourceCodeRoman-ExtraLight'"
+}
